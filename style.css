@@ -1,0 +1,24 @@
+*{
+    background-color: #01424c;
+}
+
+#main {
+    color: #ccc0c0;
+}
+
+#second-main{
+    color: #c0d4f5;
+}
+
+hr {
+    background-color: black;
+}
+
+.movie-name{
+        background-color: #D8E9A8;
+        color: #4d2d69;
+}
+
+.review{
+    color: whitesmoke;
+}
